@@ -4,7 +4,7 @@ global BLUE_PRICE
 global GD30_PRICE
 global GD30D_PRICE
 global MEP_PRICE
-saldo= 5500
+saldo= 10000 
 
 class bcolors:
     HEADER = '\033[95m'
